@@ -7,6 +7,7 @@ Vídeos Aulas: https://www.dataschool.io/15-hours-of-expert-machine-learning-vid
 Resoluções não oficiais dos exercícios:
 - https://blog.princehonest.com/stat-learning/ (https://github.com/asadoughi/stat-learning)
 - https://rpubs.com/ppaquay/ (https://github.com/ppaquay/IntroStatLearning)
+- https://botlnec.github.io/islp/
 
 Links interessantes:
 
