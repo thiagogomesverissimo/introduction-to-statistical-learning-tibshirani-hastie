@@ -9,3 +9,7 @@ Resoluções não oficiais dos exercícios:
 - https://github.com/ppaquay/IntroStatLearning
 - https://github.com/ppaquay/IntroStatLearning
 
+Links interessantes:
+
+- https://tdg5.github.io/stats-learning-notes/
+
